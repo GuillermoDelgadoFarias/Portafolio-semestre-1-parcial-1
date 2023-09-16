@@ -1,4 +1,4 @@
-# Diagrama1
+# Diagrama2
 ### Ejercicio 2 Algoritmo de la edad de una persona dando el año actual y el año de nacimiento
 #### 1.1 Analisis
 1-	Inicio
