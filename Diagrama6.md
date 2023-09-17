@@ -1,4 +1,4 @@
-# Diagrama6
+# Diagrama 6
 ### Ejercicio 6 Algoritmo que imprima cuantos alumnos de 25 pasaron la materia. La calificación aprobatoria mínima es 7
 #### 1.1 Analisis
 1-	Inicio 
@@ -15,6 +15,6 @@
 
 7-	Fin
 #### 1.2 Diagrama
-[![Diagrama1.png](https://i.gyazo.com/6dc4825f2bce2b7e574ee6f0a5fd829a.png)](https://postimg.cc/nMwrWKHt)
+[![Diagrama1.png](https://i.gyazo.com/6dc4825f2bce2b7e574ee6f0a5fd829a.png)]()
 #### 1.3 Prueba de escritorio
-[![Prueba1.png](https://i.gyazo.com/22c933d26563d5d51110709bc2006147.png)](https://postimg.cc/8j6yJHcp)
+[![Prueba1.png](https://i.gyazo.com/22c933d26563d5d51110709bc2006147.png)]()
