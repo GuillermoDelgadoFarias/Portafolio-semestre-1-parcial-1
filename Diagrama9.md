@@ -13,6 +13,6 @@
 
 6-	Fin 
 #### 1.2 Diagrama
-[![Diagrama1.png](https://i.gyazo.com/bf806550c50b22709007329e6ad00664.png)](https://postimg.cc/nMwrWKHt)
+[![Diagrama1.png](https://i.gyazo.com/bf806550c50b22709007329e6ad00664.png)]()
 #### 1.3 Prueba de escritorio
-[![Prueba1.png](https://i.gyazo.com/9e9e0c13721ed7837fe6f3eae0728685.png)](https://postimg.cc/8j6yJHcp)
+[![Prueba1.png](https://i.gyazo.com/9e9e0c13721ed7837fe6f3eae0728685.png)]()
