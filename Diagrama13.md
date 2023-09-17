@@ -22,6 +22,6 @@ de la nómina a pagar y cuantos son los impuestos que el jefes debe pagar al SAT
 
 9-	Fin
 #### 1.2 Diagrama
-[![Diagrama1.png](https://i.gyazo.com/04a7326a7154f34801a4becae4518429.png)](https://postimg.cc/nMwrWKHt)
+[![Diagrama1.png](https://i.gyazo.com/04a7326a7154f34801a4becae4518429.png)]()
 #### 1.3 Prueba de escritorio
-[![Prueba1.png](https://i.gyazo.com/c382a6647dd84b74d31836597a77f8bd.png)](https://postimg.cc/8j6yJHcp)
+[![Prueba1.png](https://i.gyazo.com/c382a6647dd84b74d31836597a77f8bd.png)]()
