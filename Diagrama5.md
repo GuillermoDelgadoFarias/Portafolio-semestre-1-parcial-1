@@ -10,6 +10,6 @@
 7-	Checar si ya fueron todas las personas y si no regresar a pedir otro año de nacimiento
 8-	Si ya fueron todos imprimir la división de la suma de las edades entre la cantidad de personas 
 #### 1.2 Diagrama
-[![Diagrama1.png](https://i.gyazo.com/f723c8df3c4b85537d32a508158300c6.png)](https://postimg.cc/nMwrWKHt)
+[![Diagrama1.png](https://i.gyazo.com/f723c8df3c4b85537d32a508158300c6.png)]()
 #### 1.3 Prueba de escritorio
 [![Prueba1.png](https://i.gyazo.com/098d5ac624f632bc771e930461e44120.png)](https://postimg.cc/8j6yJHcp)
